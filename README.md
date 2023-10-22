@@ -6,5 +6,6 @@ lalu menambahkan file yang ada pada local repo dan selanjutnya melakukan git pus
 
 Contoh:
 membuat direktori yang akan di init
+
 ![image](https://github.com/olilxruby/ujian-git/assets/90337960/0eb7201e-3c17-4766-be2c-8a79174eabce)
 
