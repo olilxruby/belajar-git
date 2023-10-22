@@ -1,0 +1,1 @@
+console.log ('test write file pada branch halaman-logout-local')
